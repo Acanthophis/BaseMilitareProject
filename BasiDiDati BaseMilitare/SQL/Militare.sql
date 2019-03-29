@@ -1,0 +1,10 @@
+12343210	Vittorio	Aiello	20	ab23
+12343211	Gerardo	Benevento	20	ab23
+12343212	Vincenzo	Veniero	18	ab23
+12343213	Cristiano	Binetti	20	acd4
+12343214	Marianna	Corinaldesi	20	acd4
+12343215	Raffaele	Vitiello	26	acd4
+12343216	Raffaele	Sansone	22	45ghy
+12343217	Pasquale	Annunziata	26	222a
+12343218	Francesco	Giuliano	45	222a
+12343219	Ciccio	Paolo	19	56y
